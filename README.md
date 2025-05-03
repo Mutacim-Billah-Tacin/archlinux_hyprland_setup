@@ -15,3 +15,5 @@
 
   yay -S hyprshot hyprpaper hyprlock 
 </pre>
+
+> icon - /usr/share/icons/
