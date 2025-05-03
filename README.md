@@ -1,12 +1,9 @@
 # archlinux_hyprland_setup
 
-> hh
-(ruihulighls gluiser
->
-> sr serkgse rgs ehgsergl
->
-> rs stert )
+<pre>
+  sudo pacman -Syu
+  git clone https://aur.archlinux.org/yay.git
+  cd yay
+  makepkg -si
 
-
-
-<pre>rgfkuyerfgk euryfe ruerf </pre>
+</pre>
