@@ -13,7 +13,7 @@
   
   makepkg -si
 
-  yay -S hyprshot hyprpaper hyprlock 
+  yay -S hyprshot hyprpaper hyprlock gammastep cliphist pamixer ttf-hack-nerd otf-comicshanns-nerd nwg-look thorium-browser-bin 
 </pre>
 
-> icon - /usr/share/icons/
+> icon,pointer - /usr/share/icons/
