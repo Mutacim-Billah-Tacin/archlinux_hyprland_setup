@@ -19,11 +19,12 @@
 </pre>
 
 > icon,pointer - /usr/share/icons/
-> nano /etc/nanorc (## To include most of the existing syntax definitions, you can do:
+# nano /etc/nanorc 
+> To include most of the existing syntax definitions, you can do:
 include /usr/share/nano/*.nanorc
 
-## Or you can select just the ones you need.  For example:
+> Or you can select just the ones you need.  For example:
 include /usr/share/nano/html.nanorc
 include /usr/share/nano/python.nanorc
-include /usr/share/nano/sh.nanorc)
+include /usr/share/nano/sh.nanorc
 
