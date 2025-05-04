@@ -31,3 +31,5 @@ include /usr/share/nano/python.nanorc
 include /usr/share/nano/sh.nanorc
 </pre>
 
+> multilib - /etc/pacman.conf
+
