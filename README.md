@@ -15,7 +15,7 @@
   
   makepkg -si
 
-  yay -S hyprshot hyprpaper hyprlock gammastep cliphist pamixer ttf-hack-nerd otf-comicshanns-nerd nwg-look thorium-browser-bin catppuccin-gtk-theme-mocha starship
+  yay -S --needed hyprshot hyprpaper hyprlock gammastep cliphist pamixer ttf-hack-nerd otf-comicshanns-nerd nwg-look thorium-browser-bin catppuccin-gtk-theme-mocha starship bibata-rainbow-cursor-theme
 </pre>
 
 > icon,pointer - /usr/share/icons/
