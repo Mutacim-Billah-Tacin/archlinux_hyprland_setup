@@ -15,7 +15,7 @@
   
   makepkg -si
 
-  yay -S --needed flameshot-git hyprpaper hyprlock gammastep cliphist pamixer ttf-hack-nerd otf-comicshanns-nerd nwg-look brave-bin catppuccin-gtk-theme-mocha starship bibata-rainbow-cursor-theme noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nautilus polkit-gnome lollypop 
+  yay -S --needed flameshot-git hyprpaper hyprlock gammastep cliphist pamixer ttf-hack-nerd otf-comicshanns-nerd nwg-look brave-bin catppuccin-gtk-theme-mocha starship bibata-rainbow-cursor-theme noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nautilus polkit-gnome lollypop vlc nvim steam flatpak gearlever stacer-bin fish 
 </pre>
 
 > icon,pointer - /usr/share/icons/
