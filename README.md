@@ -33,3 +33,22 @@ include /usr/share/nano/sh.nanorc
 
 > multilib - /etc/pacman.conf
 
+<pre>
+  sudo systemctl enable systemd-resolved --now
+  
+  sudo nano /etc/systemd/resolved.conf
+</pre>
+
+> [Resolve]
+DNS=1.1.1.1
+FallbackDNS=1.0.0.1
+DNSStubListener=yes
+
+<pre>
+  sudo ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
+  
+  nmcli connection modify "Wired connection 1" ipv4.ignore-auto-dns yes
+  nmcli connection modify "Wired connection 1" ipv6.ignore-auto-dns yes
+  nmcli connection up "Wired connection 1"
+
+</pre>
